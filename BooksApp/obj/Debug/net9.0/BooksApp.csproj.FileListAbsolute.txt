@@ -1,0 +1,14 @@
+C:\Users\cecil\Front End Devloper\LIA - 2\BooksApp\bin\Debug\net9.0\BooksApp.exe
+C:\Users\cecil\Front End Devloper\LIA - 2\BooksApp\bin\Debug\net9.0\BooksApp.deps.json
+C:\Users\cecil\Front End Devloper\LIA - 2\BooksApp\bin\Debug\net9.0\BooksApp.runtimeconfig.json
+C:\Users\cecil\Front End Devloper\LIA - 2\BooksApp\bin\Debug\net9.0\BooksApp.dll
+C:\Users\cecil\Front End Devloper\LIA - 2\BooksApp\bin\Debug\net9.0\BooksApp.pdb
+C:\Users\cecil\Front End Devloper\LIA - 2\BooksApp\obj\Debug\net9.0\BooksApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cecil\Front End Devloper\LIA - 2\BooksApp\obj\Debug\net9.0\BooksApp.AssemblyInfoInputs.cache
+C:\Users\cecil\Front End Devloper\LIA - 2\BooksApp\obj\Debug\net9.0\BooksApp.AssemblyInfo.cs
+C:\Users\cecil\Front End Devloper\LIA - 2\BooksApp\obj\Debug\net9.0\BooksApp.csproj.CoreCompileInputs.cache
+C:\Users\cecil\Front End Devloper\LIA - 2\BooksApp\obj\Debug\net9.0\BooksApp.dll
+C:\Users\cecil\Front End Devloper\LIA - 2\BooksApp\obj\Debug\net9.0\refint\BooksApp.dll
+C:\Users\cecil\Front End Devloper\LIA - 2\BooksApp\obj\Debug\net9.0\BooksApp.pdb
+C:\Users\cecil\Front End Devloper\LIA - 2\BooksApp\obj\Debug\net9.0\BooksApp.genruntimeconfig.cache
+C:\Users\cecil\Front End Devloper\LIA - 2\BooksApp\obj\Debug\net9.0\ref\BooksApp.dll
